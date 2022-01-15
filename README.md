@@ -1,6 +1,5 @@
 # Job application portal
 
-
 ## Running the code
 
 * Run Mongo daemon:
